@@ -1,7 +1,7 @@
 ## Data structures
 
 #### Excercise 1
-1. Create an Enum named `BrowserType` (in the `BrowserType` class) which will contain four elements:
+1. Create an Enum named `BrowserType` (in: the `BrowserType` class) which will contain four elements
 * Chrome
 * Edge
 * Firefox
